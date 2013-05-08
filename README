@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4580
+
+Niji (Rainbow) is yet another rainbow parentheses plugin for Vim. Its good for Common Lisp, Scheme and Clojure  with two colour schemes  out-of-the-box. Just install, and youre good to go. The filetypes, matching characters and colours Niji uses are completely configurable.
+
+Whilst not a fork, Niji builds upon the work of various rainbow parantheses plugins, starting with RainbowParenthsis.vim by John Gilmore, rainbow_parenthsis.vim by Martin Krischik and Luc Hermitte, and rainbow_parentheses.vim by kien.
+
+Niji also takes its default colour scheme from the Lisp syntax file provided in distributions of Vim and written by Dr. Charles E. Campbell, Jr.
